@@ -1,0 +1,38 @@
+readlines
+readLines
+load(".RData")
+con <-- url("http:/www.jhsph.edu","r")
+con <- url("http:/www.jhsph.edu","r")
+> head(x)
+getwd()
+setwd()
+setwd("../")
+getwd()
+setwd("/Users/anno/Documents/Data Cleaning")
+getwd()
+file.exists("directoryName")
+if (!file.exists("data")) {}
+if (!file.exists("data")) { dir.create("data")}
+if (!file.exists("data")) {#
+	dir.create("data")#
+}
+file.exists("data")
+download.data()
+fileUrl <- "http://archive.baltimorecity.gov/LinkClick.aspx?fileticket=HI9g5HWaIlk%3d&tabid=792&mid=1466" download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method"curl") list.files("./data")
+http://archive.baltimorecity.gov/LinkClick.aspx?fileticket=HI9g5HWaIlk%3d&tabid=792&mid=1466
+fileUrl <- "http://archive.baltimorecity.gov/LinkClick.aspx?fileticket=HI9g5HWaIlk%3d&tabid=792&mid=1466" download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method"curl") list.files("./data")
+fileUrl <- "https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD" download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method"curl") list.files("./data")
+fileUrl <- "https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD
+download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method = "curl")
+fileUrl <- "https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD" download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method = "curl") list.files("./data")
+fileUrl <- "https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD" #
+download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method = "curl") #
+list.files("./data")
+fileUrl <- "hhttp://archive.baltimorecity.gov/LinkClick.aspx?fileticket=HI9g5HWaIlk%3d&tabid=792&mid=1466" #
+download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv", method = "curl") #
+list.files("./data")
+fileUrl <- "hhttp://archive.baltimorecity.gov/LinkClick.aspx?fileticket=HI9g5HWaIlk%3d&tabid=792&mid=1466" #
+download.file(fileUrl, destfile="./Users/anno/Documents/Data Cleaning/Cameras.csv") #
+list.files("./data")
+gwd()
+getwd()
